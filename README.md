@@ -14,7 +14,7 @@ Linear algebra: [numeric JS](https://github.com/sloisel/numeric), [numJS](https:
 
 1. Clone this folder and just open [index.html](index.html),
 
-Or, go to [huseinhouse.com/stock-forecasting-js](https://huseinhouse.com/stock-forecasting-js/)!
+Or, go to [https://ajayprr.github.io/jswebapp/](https://ajayprr.github.io/jswebapp//)!
 
 ![alt text](screenshot/1.png)
 
